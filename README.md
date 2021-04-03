@@ -10,7 +10,7 @@ This package is the implementation of "Stochastic Gauss-Newton Algorithms for No
 - First we need the following dependency
 
 `
-pip install pandas sklearn matplotlib
+pip install pandas scikit-learn matplotlib
 `
 
 - Then we need to download the datasets. Assuming that we are at ```SGN_Code``` folder, now we go to data folder and execute the ```get_data.sh``` script
